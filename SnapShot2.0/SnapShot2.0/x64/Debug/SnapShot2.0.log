@@ -1,0 +1,42 @@
+﻿  BubbleSort.c
+  GetProcessInfo.c
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(64,5): warning C4033: 'PrintMemoryInfo' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(79,3): warning C4033: 'PrintMemoryInfo' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(117,7): warning C4033: 'PrintMemoryInfo' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(159,11): warning C4047: 'return': 'SnapShot *' differs in levels of indirection from 'int'
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(179,4): warning C4033: 'GetProcessesInfo' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(238,14): warning C4098: 'AccumulateSnapShots': 'void' function returning a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(267,15): warning C4098: 'AccumulateSnapShots': 'void' function returning a value
+  LinkedList.c
+  Main.c
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\Main.c(35,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  ResetColection.c
+  SaveOrLoadFile.c
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(45,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(46,20): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(57,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(58,21): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(70,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(71,22): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(83,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(84,23): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(122,3): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(141,10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(147,4): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(159,5): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(162,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(168,5): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(177,5): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(182,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(188,6): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(197,6): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(202,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(208,7): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(219,7): warning C4033: 'LoadFromFile' must return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(236,6): warning C4033: 'LoadFromFile' must return a value
+  TakeSnapShot.c
+  Generating Code...
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\SaveOrLoadFile.c(253): warning C4715: 'LoadFromFile': not all control paths return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(215): warning C4715: 'GetProcessesInfo': not all control paths return a value
+C:\Users\User\source\repos\test3\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(143): warning C4715: 'PrintMemoryInfo': not all control paths return a value
+  SnapShot2.0.vcxproj -> C:\Users\User\Source\Repos\test3\SnapShot2.0\x64\Debug\SnapShot2.0.exe
